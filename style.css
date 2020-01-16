@@ -1,0 +1,36 @@
+/* reset */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* rem & em */
+
+/* html{
+    font-size: 10px;
+}
+
+.box{
+    font-size: 30px;
+}
+
+p{
+    font-size: 1rem;
+    border: 0.1rem black solid;
+    padding: 1rem;
+}
+
+p{
+    font-size: 2em;
+    border: 0.1em black solid;
+    padding: 1em;
+} */
+
+
+/* vh & vw */
+
+.box{
+    background-color: blue;
+    height: 100vh;
+    width: 100vw;
+}
